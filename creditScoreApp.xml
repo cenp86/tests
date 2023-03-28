@@ -6,6 +6,6 @@
      <extensionpoint>
           <location>CLIENT_VIEW</location>
           <label>Credit Score</label>
-          <url>https://cenp86.github.io/tests/Credit-score/</url>
+          <url>https://cenp86.github.io/tests/Credit-score/index.html</url>
      </extensionpoint>
 </app>
