@@ -1,0 +1,11 @@
+<app>
+     <id>appTest002</id>
+     <name>Credit Score test</name>
+     <provider>Credit Score test</provider>
+     <description>Credit Score WebApp</description>
+     <extensionpoint>
+          <location>CLIENT_VIEW</location>
+          <label>Credit Score tes</label>
+          <url>https://cenp86.github.io/tests/Credit-score/</url>
+     </extensionpoint>
+</app>
