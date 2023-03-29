@@ -4,8 +4,7 @@
 		<script>
 			$(document).ready(function(){
 				var score = Math.floor(Math.random() * (900 - 300 + 1) + 300);
-				document.getElementById("creditScore").innerHTML = "Credit score: " + score;
-				alert ("Hola Mundo"); 			
+				$("creditScore").text("Credit score: " + score);		
 			});
 		</script>
 	</head>
