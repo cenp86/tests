@@ -6,6 +6,6 @@
      <extensionpoint>
           <location>CLIENT_VIEW</location>
           <label>Credit Score</label>
-          <url>https://cenp86.github.io/tests/Credit-score/index.html</url>
+          <url>https://www.random.org/integers/?num=1&min=300&max=1000&col=1&base=10&format=plain&rnd=new</url>
      </extensionpoint>
 </app>
