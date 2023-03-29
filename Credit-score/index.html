@@ -4,6 +4,7 @@
 	<body>
 		<h1>Datacredito Experian</h1>
 		<h3 id="creditScore">lol<h3>
+		<h4 id="others">lol<h3>
 		<script>
 			const xhr = new XMLHttpRequest();
 			
@@ -18,6 +19,7 @@
 			
 			var score = Math.floor(Math.random() * (900 - 300 + 1) + 300);
 			document.getElementById("creditScore").innerHTML = "Credit score: " + score;
+			document.getElementById("others").innerHTML = data;			
 		</script>
 	</body>
 </html>
